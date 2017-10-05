@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=DormRoom
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=DormRoom()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=Character\ getPlayer()
+comment5.params=
+comment5.target=Door\ getDoor()
+comment6.params=
+comment6.target=void\ DoorTest()
+numComments=7
